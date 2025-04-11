@@ -1,1 +1,0 @@
-# version-controlled-devops-project
