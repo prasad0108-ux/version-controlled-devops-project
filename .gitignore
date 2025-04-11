@@ -1,27 +1,16 @@
-# Byte-compiled / cache files
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-
-# Environment
+# Ignore environment variables
 .env
-.venv/
-venv/
-ENV/
-env/
-*.env
 
-# Flask cache and logs
-instance/
+# Ignore log files
 *.log
 
-# IDE/editor files
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+env/
+
+# Ignore IDE/editor files
 .vscode/
-.idea/
-*.swp
-
-# OS files
-.DS_Store
-Thumbs.db
-
